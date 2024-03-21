@@ -1,1 +1,1 @@
-# my-first-repository-on-desktop
+# my-first-repository-on-deskto
